@@ -2,7 +2,7 @@
   <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
 </div>
 
-<h2 align="center">Hi 👋, I'm Chakit Gupta</h2>
+<h2 align="center">Hi 👋, I'm Akshita Sharma</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+chakitg%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
@@ -30,7 +30,7 @@
 
 --- 
 
-### ⚙️ My Projects 
+<!-- ### ⚙️ My Projects 
 
 
 #### HTML CSS Projects
@@ -44,7 +44,7 @@
 #### College Projects
 * [Jarvis](https://github.com/chakitg/Jarvis) 
 * [Marvels](https://github.com/chakitg/marvels)
-* [AssetChain](https://github.com/chakitg/assetChain) 
+* [AssetChain](https://github.com/chakitg/assetChain)  -->
 
 
 <!-- #### Full-Stack Projects :
@@ -136,7 +136,7 @@ XML          3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-simple-->
 
 ---
-
+<!-- 
 ### 🐍 Contribution snake
 
   ![Snake animation](https://github.com/chakitg/chakitg/blob/output/github-contribution-grid-snake.svg)
@@ -156,7 +156,7 @@ XML          3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░
 <!--     <a href="https://portfolio-de-aagam.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a> -->
-</div>
+<!-- </div> -->
 
 ---
 
