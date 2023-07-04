@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
+  <img src=https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif width="200"/>
 
 
 <h1 align="center">Hi 👋, I'm Akshita Sharma</h1>
